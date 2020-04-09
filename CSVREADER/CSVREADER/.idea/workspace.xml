@@ -33,22 +33,16 @@
       <recent name="com.bridgelabz.introductionCSV" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CSVReader">
-    <configuration name="CSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.introductionCSV.CSVReader" />
+  <component name="RunManager" selected="Application.OpenCSVReadAndParseToBean">
+    <configuration name="OpenCSVParseToBeanWithoutAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.CSV.OpenCSVParseToBeanWithoutAnnotation" />
       <module name="CSVREADER.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.introductionCSV.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenCSVParseToBeanWithoutAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.CSV.OpenCSVParseToBeanWithoutAnnotation" />
+    <configuration name="OpenCSVReadAndParseToBean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.CSV.OpenCSVReadAndParseToBean" />
       <module name="CSVREADER.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CSVReader" />
         <item itemvalue="Application.OpenCSVWriterObject" />
         <item itemvalue="Application.OpenCSVWriter2" />
         <item itemvalue="Application.OpenCSVWriter" />
         <item itemvalue="Application.OpenCSVParseToBeanWithoutAnnotation" />
+        <item itemvalue="Application.OpenCSVReadAndParseToBean" />
       </list>
     </recent_temporary>
   </component>
@@ -115,22 +109,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586273699405" />
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1586338758221">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1586308108498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586338758221" />
-    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1586338758221">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586308108498" />
+    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1586308108498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586338758221" />
-    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1586338758221">
+    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586308108498" />
+    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1586308108498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586338758221" />
-    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1586338758221">
+    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586308108498" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1586308108498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586338758221" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586308108498" />
     <state x="462" y="10" width="611" height="804" key="find.popup" timestamp="1586281657745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
